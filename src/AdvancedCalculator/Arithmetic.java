@@ -7,6 +7,7 @@ public class Arithmetic extends Trigonometry{
 	String record;
 public void Addition() {
 		
+	
 		
 		System.out.println("Enter two number for Addition -> ");
 		System.out.println("----------------------------------------------");

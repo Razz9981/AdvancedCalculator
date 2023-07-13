@@ -58,6 +58,7 @@ public class Trigonometry {
 		System.out.println("----------------------------------------------");
 		System.out.println();
 		
+		
 		double tan = Math.tan(numberS);
 		record=("tan (" + degree + ") is " + tan);
 		System.out.println(record);

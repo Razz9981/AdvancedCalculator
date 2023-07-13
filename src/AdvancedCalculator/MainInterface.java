@@ -22,7 +22,7 @@ public class MainInterface  {
 		if(op==1){
 			System.out.println("Select the Operation to be performed :");
 			System.out.println("----------------------------------------------");
-			
+			 
 			System.out.println("1. Addition");
 			System.out.println("2. Subtraction");
 			System.out.println("3. Multiplication");

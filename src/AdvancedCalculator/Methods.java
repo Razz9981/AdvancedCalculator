@@ -62,6 +62,7 @@ public class Methods extends Arithmetic{
 		for(int i=1; i<=p; i++) {
 			result=n*result;
 			
+			
 		}
 		record =n+" to the power "+p+" is equal to ->"+result;
 		System.out.println(record);
