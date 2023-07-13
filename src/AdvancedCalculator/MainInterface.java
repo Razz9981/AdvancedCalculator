@@ -12,6 +12,7 @@ public class MainInterface  {
 		Methods a = new Methods();
 		int op=0;
 		try {
+			System.out.println("\n");
 		System.out.println("Select the Function to be performed :");
 		System.out.println("1. Arithmetic Functions");
 		System.out.println("2. Trigonometry Functions");
@@ -105,7 +106,7 @@ public class MainInterface  {
 			System.out.println("3. Log");
 			System.out.println("4. Power of a number");
 			System.out.println("5. LCM");
-			System.out.println("6. Percentage of a number");
+			System.out.println(". Percentage of a number");
 			
 			op=sc.nextInt();
 			switch(op) {
